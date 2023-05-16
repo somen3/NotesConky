@@ -1,5 +1,5 @@
 # NotesConky
-## NotesConky is a transparent conky that lets you add notes to your system conky alongside viewing your system info, and processes. 
+## NotesConky is a transparent conky that lets you add notes to your system conky, and at the same time, displays your system info, and processes. 
 
 <p align="center">
 <img src="https://github.com/somen3/NotesConky/assets/92948254/78242780-4fc7-4ff8-b274-0f5629c5d4bb">
