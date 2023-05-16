@@ -1,2 +1,2 @@
 # NotesConky
-Turn conky into  a powerful productivity tool.
+NotesConky lets you add notes to your system conky alongside viewing your system info, and processes. 
