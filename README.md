@@ -1,6 +1,9 @@
 # NotesConky
 ## NotesConky lets you add notes to your system conky alongside viewing your system info, and processes. 
-<p align="center">![NotesConky](https://github.com/somen3/NotesConky/assets/92948254/78242780-4fc7-4ff8-b274-0f5629c5d4bb)</p>
+
+<p align="center">!
+[NotesConky](https://github.com/somen3/NotesConky/assets/92948254/78242780-4fc7-4ff8-b274-0f5629c5d4bb
+</p>
 
 ## Installation
 
