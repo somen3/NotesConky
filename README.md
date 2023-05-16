@@ -23,3 +23,4 @@
 
 - You can sync the ~/conky/NotesConky/ dir across multiple devices using Syncthing to edit the notes.txt from any of your devices
  
+ Developed by [Somen Bhattacharjee](https://github.com/somen3/)
