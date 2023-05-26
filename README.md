@@ -17,8 +17,8 @@
 ## Usage
 
 - You can access your notes.txt file using this path: ~/.conky/NotesConky/notes.txt
-  - You can run edit it using nano or vim on the terminal like this: nano ~/conky/NotesConky/notes.txt
-  - Or you can create a keyboard shortcut to the file with a shortcut key like Ctrl+Alt+N, and the path as gedit /home/Your Username/NotesConky/notes.txt 
+  - You can run edit it using nano or vim on the terminal like this: nano ~/.conky/NotesConky/notes.txt
+  - Or you can create a keyboard shortcut to the file with a shortcut key like Ctrl+Alt+N, and the path as gedit /home/Your Username/.conky/NotesConky/notes.txt 
 
 ## Advanced Usage
 
