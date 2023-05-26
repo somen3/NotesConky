@@ -2,7 +2,7 @@
 ## NotesConky is a transparent conky for Linux that lets you add notes to your system conky, and at the same time, it displays your system info, and processes. 
 
 <p align="center">
-<img src="https://github.com/somen3/NotesConky/assets/92948254/78242780-4fc7-4ff8-b274-0f5629c5d4bb">
+<img src="https://github.com/somen3/NotesConky/assets/92948254/b3dde05a-c271-4af4-85bd-48448ea31493">
 </p>
 
 ## Installation
